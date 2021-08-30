@@ -1,4 +1,5 @@
-#String compression with pointers and position numeral system conversion
+# String compression with pointers and position numeral system conversion
+
 My submition for a homework project in my 1st semester Programming 101 at the Department of Information Systems at the University of Haifa.
 
 **My code has been graded 100/100.**
